@@ -1,0 +1,11 @@
+D:\Projects\Prueba\backend\FinTech\Dominio\FinTech.Domain\bin\Debug\net10.0\FinTech.Domain.deps.json
+D:\Projects\Prueba\backend\FinTech\Dominio\FinTech.Domain\bin\Debug\net10.0\FinTech.Domain.dll
+D:\Projects\Prueba\backend\FinTech\Dominio\FinTech.Domain\bin\Debug\net10.0\FinTech.Domain.pdb
+D:\Projects\Prueba\backend\FinTech\Dominio\FinTech.Domain\obj\Debug\net10.0\FinTech.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Prueba\backend\FinTech\Dominio\FinTech.Domain\obj\Debug\net10.0\FinTech.Domain.AssemblyInfoInputs.cache
+D:\Projects\Prueba\backend\FinTech\Dominio\FinTech.Domain\obj\Debug\net10.0\FinTech.Domain.AssemblyInfo.cs
+D:\Projects\Prueba\backend\FinTech\Dominio\FinTech.Domain\obj\Debug\net10.0\FinTech.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Prueba\backend\FinTech\Dominio\FinTech.Domain\obj\Debug\net10.0\FinTech.Domain.dll
+D:\Projects\Prueba\backend\FinTech\Dominio\FinTech.Domain\obj\Debug\net10.0\refint\FinTech.Domain.dll
+D:\Projects\Prueba\backend\FinTech\Dominio\FinTech.Domain\obj\Debug\net10.0\FinTech.Domain.pdb
+D:\Projects\Prueba\backend\FinTech\Dominio\FinTech.Domain\obj\Debug\net10.0\ref\FinTech.Domain.dll

@@ -1,0 +1,466 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Prueba\\backend\\FinTech\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{926DC054-3DA3-B32A-8936-D19C0CAF6616}|Infraestructura\\FinTech.Infrastructure\\FinTech.Infrastructure.csproj|d:\\projects\\prueba\\backend\\fintech\\infraestructura\\fintech.infrastructure\\persistencia\\repositorios\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926DC054-3DA3-B32A-8936-D19C0CAF6616}|Infraestructura\\FinTech.Infrastructure\\FinTech.Infrastructure.csproj|solutionrelative:infraestructura\\fintech.infrastructure\\persistencia\\repositorios\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926DC054-3DA3-B32A-8936-D19C0CAF6616}|Infraestructura\\FinTech.Infrastructure\\FinTech.Infrastructure.csproj|d:\\projects\\prueba\\backend\\fintech\\infraestructura\\fintech.infrastructure\\persistencia\\repositorios\\paymentschedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926DC054-3DA3-B32A-8936-D19C0CAF6616}|Infraestructura\\FinTech.Infrastructure\\FinTech.Infrastructure.csproj|solutionrelative:infraestructura\\fintech.infrastructure\\persistencia\\repositorios\\paymentschedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926DC054-3DA3-B32A-8936-D19C0CAF6616}|Infraestructura\\FinTech.Infrastructure\\FinTech.Infrastructure.csproj|d:\\projects\\prueba\\backend\\fintech\\infraestructura\\fintech.infrastructure\\persistencia\\repositorios\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926DC054-3DA3-B32A-8936-D19C0CAF6616}|Infraestructura\\FinTech.Infrastructure\\FinTech.Infrastructure.csproj|solutionrelative:infraestructura\\fintech.infrastructure\\persistencia\\repositorios\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926F8B77-9F08-D0BF-1263-EB33D6EAA347}|Tests\\FinTech.Tests\\FinTech.Tests.csproj|d:\\projects\\prueba\\backend\\fintech\\tests\\fintech.tests\\transactionidempotencytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926F8B77-9F08-D0BF-1263-EB33D6EAA347}|Tests\\FinTech.Tests\\FinTech.Tests.csproj|solutionrelative:tests\\fintech.tests\\transactionidempotencytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926F8B77-9F08-D0BF-1263-EB33D6EAA347}|Tests\\FinTech.Tests\\FinTech.Tests.csproj|d:\\projects\\prueba\\backend\\fintech\\tests\\fintech.tests\\loanservicevalidationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926F8B77-9F08-D0BF-1263-EB33D6EAA347}|Tests\\FinTech.Tests\\FinTech.Tests.csproj|solutionrelative:tests\\fintech.tests\\loanservicevalidationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926F8B77-9F08-D0BF-1263-EB33D6EAA347}|Tests\\FinTech.Tests\\FinTech.Tests.csproj|d:\\projects\\prueba\\backend\\fintech\\tests\\fintech.tests\\financialcalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926F8B77-9F08-D0BF-1263-EB33D6EAA347}|Tests\\FinTech.Tests\\FinTech.Tests.csproj|solutionrelative:tests\\fintech.tests\\financialcalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A231B2-1669-FCE2-6BB7-923D2E372855}|Presentacion\\FinTech.Api\\FinTech.Api.csproj|d:\\projects\\prueba\\backend\\fintech\\presentacion\\fintech.api\\controladores\\loanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A231B2-1669-FCE2-6BB7-923D2E372855}|Presentacion\\FinTech.Api\\FinTech.Api.csproj|solutionrelative:presentacion\\fintech.api\\controladores\\loanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F992795-A270-736C-56A3-4B43E6B7B03F}|Aplicacion\\FinTech.Application.UseCases\\FinTech.Application.UseCases.csproj|d:\\projects\\prueba\\backend\\fintech\\aplicacion\\fintech.application.usecases\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F992795-A270-736C-56A3-4B43E6B7B03F}|Aplicacion\\FinTech.Application.UseCases\\FinTech.Application.UseCases.csproj|solutionrelative:aplicacion\\fintech.application.usecases\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F992795-A270-736C-56A3-4B43E6B7B03F}|Aplicacion\\FinTech.Application.UseCases\\FinTech.Application.UseCases.csproj|d:\\projects\\prueba\\backend\\fintech\\aplicacion\\fintech.application.usecases\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F992795-A270-736C-56A3-4B43E6B7B03F}|Aplicacion\\FinTech.Application.UseCases\\FinTech.Application.UseCases.csproj|solutionrelative:aplicacion\\fintech.application.usecases\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F992795-A270-736C-56A3-4B43E6B7B03F}|Aplicacion\\FinTech.Application.UseCases\\FinTech.Application.UseCases.csproj|d:\\projects\\prueba\\backend\\fintech\\aplicacion\\fintech.application.usecases\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F992795-A270-736C-56A3-4B43E6B7B03F}|Aplicacion\\FinTech.Application.UseCases\\FinTech.Application.UseCases.csproj|solutionrelative:aplicacion\\fintech.application.usecases\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7E7055-3F16-A772-0119-0130EF191E6C}|Aplicacion\\FinTech.Application.Interfaces\\FinTech.Application.Interfaces.csproj|d:\\projects\\prueba\\backend\\fintech\\aplicacion\\fintech.application.interfaces\\services\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7E7055-3F16-A772-0119-0130EF191E6C}|Aplicacion\\FinTech.Application.Interfaces\\FinTech.Application.Interfaces.csproj|solutionrelative:aplicacion\\fintech.application.interfaces\\services\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7E7055-3F16-A772-0119-0130EF191E6C}|Aplicacion\\FinTech.Application.Interfaces\\FinTech.Application.Interfaces.csproj|d:\\projects\\prueba\\backend\\fintech\\aplicacion\\fintech.application.interfaces\\services\\iloanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7E7055-3F16-A772-0119-0130EF191E6C}|Aplicacion\\FinTech.Application.Interfaces\\FinTech.Application.Interfaces.csproj|solutionrelative:aplicacion\\fintech.application.interfaces\\services\\iloanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7E7055-3F16-A772-0119-0130EF191E6C}|Aplicacion\\FinTech.Application.Interfaces\\FinTech.Application.Interfaces.csproj|d:\\projects\\prueba\\backend\\fintech\\aplicacion\\fintech.application.interfaces\\repositories\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7E7055-3F16-A772-0119-0130EF191E6C}|Aplicacion\\FinTech.Application.Interfaces\\FinTech.Application.Interfaces.csproj|solutionrelative:aplicacion\\fintech.application.interfaces\\repositories\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7E7055-3F16-A772-0119-0130EF191E6C}|Aplicacion\\FinTech.Application.Interfaces\\FinTech.Application.Interfaces.csproj|d:\\projects\\prueba\\backend\\fintech\\aplicacion\\fintech.application.interfaces\\repositories\\ipaymentschedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7E7055-3F16-A772-0119-0130EF191E6C}|Aplicacion\\FinTech.Application.Interfaces\\FinTech.Application.Interfaces.csproj|solutionrelative:aplicacion\\fintech.application.interfaces\\repositories\\ipaymentschedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7E7055-3F16-A772-0119-0130EF191E6C}|Aplicacion\\FinTech.Application.Interfaces\\FinTech.Application.Interfaces.csproj|d:\\projects\\prueba\\backend\\fintech\\aplicacion\\fintech.application.interfaces\\repositories\\iloanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7E7055-3F16-A772-0119-0130EF191E6C}|Aplicacion\\FinTech.Application.Interfaces\\FinTech.Application.Interfaces.csproj|solutionrelative:aplicacion\\fintech.application.interfaces\\repositories\\iloanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297705A2-9C4E-85AD-D3BC-F4B8452DEDF2}|Aplicacion\\FinTech.Application.DTO\\FinTech.Application.DTO.csproj|d:\\projects\\prueba\\backend\\fintech\\aplicacion\\fintech.application.dto\\transactions\\transactionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297705A2-9C4E-85AD-D3BC-F4B8452DEDF2}|Aplicacion\\FinTech.Application.DTO\\FinTech.Application.DTO.csproj|solutionrelative:aplicacion\\fintech.application.dto\\transactions\\transactionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297705A2-9C4E-85AD-D3BC-F4B8452DEDF2}|Aplicacion\\FinTech.Application.DTO\\FinTech.Application.DTO.csproj|d:\\projects\\prueba\\backend\\fintech\\aplicacion\\fintech.application.dto\\transactions\\createtransactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297705A2-9C4E-85AD-D3BC-F4B8452DEDF2}|Aplicacion\\FinTech.Application.DTO\\FinTech.Application.DTO.csproj|solutionrelative:aplicacion\\fintech.application.dto\\transactions\\createtransactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297705A2-9C4E-85AD-D3BC-F4B8452DEDF2}|Aplicacion\\FinTech.Application.DTO\\FinTech.Application.DTO.csproj|d:\\projects\\prueba\\backend\\fintech\\aplicacion\\fintech.application.dto\\loans\\simulateloanresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297705A2-9C4E-85AD-D3BC-F4B8452DEDF2}|Aplicacion\\FinTech.Application.DTO\\FinTech.Application.DTO.csproj|solutionrelative:aplicacion\\fintech.application.dto\\loans\\simulateloanresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297705A2-9C4E-85AD-D3BC-F4B8452DEDF2}|Aplicacion\\FinTech.Application.DTO\\FinTech.Application.DTO.csproj|d:\\projects\\prueba\\backend\\fintech\\aplicacion\\fintech.application.dto\\loans\\simulateloanrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297705A2-9C4E-85AD-D3BC-F4B8452DEDF2}|Aplicacion\\FinTech.Application.DTO\\FinTech.Application.DTO.csproj|solutionrelative:aplicacion\\fintech.application.dto\\loans\\simulateloanrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297705A2-9C4E-85AD-D3BC-F4B8452DEDF2}|Aplicacion\\FinTech.Application.DTO\\FinTech.Application.DTO.csproj|d:\\projects\\prueba\\backend\\fintech\\aplicacion\\fintech.application.dto\\loans\\paymentscheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297705A2-9C4E-85AD-D3BC-F4B8452DEDF2}|Aplicacion\\FinTech.Application.DTO\\FinTech.Application.DTO.csproj|solutionrelative:aplicacion\\fintech.application.dto\\loans\\paymentscheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297705A2-9C4E-85AD-D3BC-F4B8452DEDF2}|Aplicacion\\FinTech.Application.DTO\\FinTech.Application.DTO.csproj|d:\\projects\\prueba\\backend\\fintech\\aplicacion\\fintech.application.dto\\loans\\loanresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297705A2-9C4E-85AD-D3BC-F4B8452DEDF2}|Aplicacion\\FinTech.Application.DTO\\FinTech.Application.DTO.csproj|solutionrelative:aplicacion\\fintech.application.dto\\loans\\loanresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297705A2-9C4E-85AD-D3BC-F4B8452DEDF2}|Aplicacion\\FinTech.Application.DTO\\FinTech.Application.DTO.csproj|d:\\projects\\prueba\\backend\\fintech\\aplicacion\\fintech.application.dto\\loans\\createloanrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297705A2-9C4E-85AD-D3BC-F4B8452DEDF2}|Aplicacion\\FinTech.Application.DTO\\FinTech.Application.DTO.csproj|solutionrelative:aplicacion\\fintech.application.dto\\loans\\createloanrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A231B2-1669-FCE2-6BB7-923D2E372855}|Presentacion\\FinTech.Api\\FinTech.Api.csproj|d:\\projects\\prueba\\backend\\fintech\\presentacion\\fintech.api\\controladores\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A231B2-1669-FCE2-6BB7-923D2E372855}|Presentacion\\FinTech.Api\\FinTech.Api.csproj|solutionrelative:presentacion\\fintech.api\\controladores\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297705A2-9C4E-85AD-D3BC-F4B8452DEDF2}|Aplicacion\\FinTech.Application.DTO\\FinTech.Application.DTO.csproj|d:\\projects\\prueba\\backend\\fintech\\aplicacion\\fintech.application.dto\\loans\\loandetailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297705A2-9C4E-85AD-D3BC-F4B8452DEDF2}|Aplicacion\\FinTech.Application.DTO\\FinTech.Application.DTO.csproj|solutionrelative:aplicacion\\fintech.application.dto\\loans\\loandetailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A231B2-1669-FCE2-6BB7-923D2E372855}|Presentacion\\FinTech.Api\\FinTech.Api.csproj|d:\\projects\\prueba\\backend\\fintech\\presentacion\\fintech.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8A231B2-1669-FCE2-6BB7-923D2E372855}|Presentacion\\FinTech.Api\\FinTech.Api.csproj|solutionrelative:presentacion\\fintech.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926DC054-3DA3-B32A-8936-D19C0CAF6616}|Infraestructura\\FinTech.Infrastructure\\FinTech.Infrastructure.csproj|d:\\projects\\prueba\\backend\\fintech\\infraestructura\\fintech.infrastructure\\persistencia\\migraciones\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926DC054-3DA3-B32A-8936-D19C0CAF6616}|Infraestructura\\FinTech.Infrastructure\\FinTech.Infrastructure.csproj|solutionrelative:infraestructura\\fintech.infrastructure\\persistencia\\migraciones\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentScheduleRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Prueba\\backend\\FinTech\\Infraestructura\\FinTech.Infrastructure\\Persistencia\\Repositorios\\PaymentScheduleRepository.cs",
+              "RelativeDocumentMoniker": "Infraestructura\\FinTech.Infrastructure\\Persistencia\\Repositorios\\PaymentScheduleRepository.cs",
+              "ToolTip": "D:\\Projects\\Prueba\\backend\\FinTech\\Infraestructura\\FinTech.Infrastructure\\Persistencia\\Repositorios\\PaymentScheduleRepository.cs",
+              "RelativeToolTip": "Infraestructura\\FinTech.Infrastructure\\Persistencia\\Repositorios\\PaymentScheduleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T03:33:23.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoanRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Prueba\\backend\\FinTech\\Infraestructura\\FinTech.Infrastructure\\Persistencia\\Repositorios\\LoanRepository.cs",
+              "RelativeDocumentMoniker": "Infraestructura\\FinTech.Infrastructure\\Persistencia\\Repositorios\\LoanRepository.cs",
+              "ToolTip": "D:\\Projects\\Prueba\\backend\\FinTech\\Infraestructura\\FinTech.Infrastructure\\Persistencia\\Repositorios\\LoanRepository.cs",
+              "RelativeToolTip": "Infraestructura\\FinTech.Infrastructure\\Persistencia\\Repositorios\\LoanRepository.cs",
+              "ViewState": "AgIAAAMAAAAAmpmZmZkuwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T01:02:48.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FinancialCalculatorTests.cs",
+              "DocumentMoniker": "D:\\Projects\\Prueba\\backend\\FinTech\\Tests\\FinTech.Tests\\FinancialCalculatorTests.cs",
+              "RelativeDocumentMoniker": "Tests\\FinTech.Tests\\FinancialCalculatorTests.cs",
+              "ToolTip": "D:\\Projects\\Prueba\\backend\\FinTech\\Tests\\FinTech.Tests\\FinancialCalculatorTests.cs",
+              "RelativeToolTip": "Tests\\FinTech.Tests\\FinancialCalculatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T02:43:30.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoanServiceValidationTests.cs",
+              "DocumentMoniker": "D:\\Projects\\Prueba\\backend\\FinTech\\Tests\\FinTech.Tests\\LoanServiceValidationTests.cs",
+              "RelativeDocumentMoniker": "Tests\\FinTech.Tests\\LoanServiceValidationTests.cs",
+              "ToolTip": "D:\\Projects\\Prueba\\backend\\FinTech\\Tests\\FinTech.Tests\\LoanServiceValidationTests.cs",
+              "RelativeToolTip": "Tests\\FinTech.Tests\\LoanServiceValidationTests.cs",
+              "ViewState": "AgIAAAUAAAAQMzMzMzMbwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T02:45:04.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionIdempotencyTests.cs",
+              "DocumentMoniker": "D:\\Projects\\Prueba\\backend\\FinTech\\Tests\\FinTech.Tests\\TransactionIdempotencyTests.cs",
+              "RelativeDocumentMoniker": "Tests\\FinTech.Tests\\TransactionIdempotencyTests.cs",
+              "ToolTip": "D:\\Projects\\Prueba\\backend\\FinTech\\Tests\\FinTech.Tests\\TransactionIdempotencyTests.cs",
+              "RelativeToolTip": "Tests\\FinTech.Tests\\TransactionIdempotencyTests.cs",
+              "ViewState": "AgIAAA8AAAAAyszMzMzovxAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T02:44:18.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Prueba\\backend\\FinTech\\Infraestructura\\FinTech.Infrastructure\\Persistencia\\Repositorios\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "Infraestructura\\FinTech.Infrastructure\\Persistencia\\Repositorios\\TransactionRepository.cs",
+              "ToolTip": "D:\\Projects\\Prueba\\backend\\FinTech\\Infraestructura\\FinTech.Infrastructure\\Persistencia\\Repositorios\\TransactionRepository.cs",
+              "RelativeToolTip": "Infraestructura\\FinTech.Infrastructure\\Persistencia\\Repositorios\\TransactionRepository.cs",
+              "ViewState": "AgIAABkAAAAQAAAAAOA6wCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T03:33:25.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoansController.cs",
+              "DocumentMoniker": "D:\\Projects\\Prueba\\backend\\FinTech\\Presentacion\\FinTech.Api\\Controladores\\LoansController.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FinTech.Api\\Controladores\\LoansController.cs",
+              "ToolTip": "D:\\Projects\\Prueba\\backend\\FinTech\\Presentacion\\FinTech.Api\\Controladores\\LoansController.cs",
+              "RelativeToolTip": "Presentacion\\FinTech.Api\\Controladores\\LoansController.cs",
+              "ViewState": "AgIAAC8AAAAAlpmZmZn7vxoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T01:51:45.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.UseCases\\TransactionService.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\FinTech.Application.UseCases\\TransactionService.cs",
+              "ToolTip": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.UseCases\\TransactionService.cs",
+              "RelativeToolTip": "Aplicacion\\FinTech.Application.UseCases\\TransactionService.cs",
+              "ViewState": "AgIAAAIAAAA8MzMzM3MvwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T01:04:44.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoanService.cs",
+              "DocumentMoniker": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.UseCases\\LoanService.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\FinTech.Application.UseCases\\LoanService.cs",
+              "ToolTip": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.UseCases\\LoanService.cs",
+              "RelativeToolTip": "Aplicacion\\FinTech.Application.UseCases\\LoanService.cs",
+              "ViewState": "AgIAAHcAAAAAiJmZmZn7vzQAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T00:51:53.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.UseCases\\Class1.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\FinTech.Application.UseCases\\Class1.cs",
+              "ToolTip": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.UseCases\\Class1.cs",
+              "RelativeToolTip": "Aplicacion\\FinTech.Application.UseCases\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T01:03:45.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.Interfaces\\Services\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\FinTech.Application.Interfaces\\Services\\ITransactionService.cs",
+              "ToolTip": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.Interfaces\\Services\\ITransactionService.cs",
+              "RelativeToolTip": "Aplicacion\\FinTech.Application.Interfaces\\Services\\ITransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T00:46:27.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ILoanService.cs",
+              "DocumentMoniker": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.Interfaces\\Services\\ILoanService.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\FinTech.Application.Interfaces\\Services\\ILoanService.cs",
+              "ToolTip": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.Interfaces\\Services\\ILoanService.cs",
+              "RelativeToolTip": "Aplicacion\\FinTech.Application.Interfaces\\Services\\ILoanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T00:46:38.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.Interfaces\\Repositories\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\FinTech.Application.Interfaces\\Repositories\\ITransactionRepository.cs",
+              "ToolTip": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.Interfaces\\Repositories\\ITransactionRepository.cs",
+              "RelativeToolTip": "Aplicacion\\FinTech.Application.Interfaces\\Repositories\\ITransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T00:55:12.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPaymentScheduleRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.Interfaces\\Repositories\\IPaymentScheduleRepository.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\FinTech.Application.Interfaces\\Repositories\\IPaymentScheduleRepository.cs",
+              "ToolTip": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.Interfaces\\Repositories\\IPaymentScheduleRepository.cs",
+              "RelativeToolTip": "Aplicacion\\FinTech.Application.Interfaces\\Repositories\\IPaymentScheduleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T00:54:55.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ILoanRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.Interfaces\\Repositories\\ILoanRepository.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\FinTech.Application.Interfaces\\Repositories\\ILoanRepository.cs",
+              "ToolTip": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.Interfaces\\Repositories\\ILoanRepository.cs",
+              "RelativeToolTip": "Aplicacion\\FinTech.Application.Interfaces\\Repositories\\ILoanRepository.cs",
+              "ViewState": "AgIAAAEAAAAAMzMzM7MSwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T00:46:49.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TransactionResponse.cs",
+              "DocumentMoniker": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.DTO\\Transactions\\TransactionResponse.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\FinTech.Application.DTO\\Transactions\\TransactionResponse.cs",
+              "ToolTip": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.DTO\\Transactions\\TransactionResponse.cs",
+              "RelativeToolTip": "Aplicacion\\FinTech.Application.DTO\\Transactions\\TransactionResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T00:45:57.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateTransactionRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.DTO\\Transactions\\CreateTransactionRequest.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\FinTech.Application.DTO\\Transactions\\CreateTransactionRequest.cs",
+              "ToolTip": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.DTO\\Transactions\\CreateTransactionRequest.cs",
+              "RelativeToolTip": "Aplicacion\\FinTech.Application.DTO\\Transactions\\CreateTransactionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T00:45:47.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SimulateLoanResponse.cs",
+              "DocumentMoniker": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.DTO\\Loans\\SimulateLoanResponse.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\FinTech.Application.DTO\\Loans\\SimulateLoanResponse.cs",
+              "ToolTip": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.DTO\\Loans\\SimulateLoanResponse.cs",
+              "RelativeToolTip": "Aplicacion\\FinTech.Application.DTO\\Loans\\SimulateLoanResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T00:45:36.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SimulateLoanRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.DTO\\Loans\\SimulateLoanRequest.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\FinTech.Application.DTO\\Loans\\SimulateLoanRequest.cs",
+              "ToolTip": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.DTO\\Loans\\SimulateLoanRequest.cs",
+              "RelativeToolTip": "Aplicacion\\FinTech.Application.DTO\\Loans\\SimulateLoanRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T00:45:34.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PaymentScheduleDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.DTO\\Loans\\PaymentScheduleDto.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\FinTech.Application.DTO\\Loans\\PaymentScheduleDto.cs",
+              "ToolTip": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.DTO\\Loans\\PaymentScheduleDto.cs",
+              "RelativeToolTip": "Aplicacion\\FinTech.Application.DTO\\Loans\\PaymentScheduleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T00:45:30.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoanResponse.cs",
+              "DocumentMoniker": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.DTO\\Loans\\LoanResponse.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\FinTech.Application.DTO\\Loans\\LoanResponse.cs",
+              "ToolTip": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.DTO\\Loans\\LoanResponse.cs",
+              "RelativeToolTip": "Aplicacion\\FinTech.Application.DTO\\Loans\\LoanResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T00:45:26.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateLoanRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.DTO\\Loans\\CreateLoanRequest.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\FinTech.Application.DTO\\Loans\\CreateLoanRequest.cs",
+              "ToolTip": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.DTO\\Loans\\CreateLoanRequest.cs",
+              "RelativeToolTip": "Aplicacion\\FinTech.Application.DTO\\Loans\\CreateLoanRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T00:45:15.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "D:\\Projects\\Prueba\\backend\\FinTech\\Presentacion\\FinTech.Api\\Controladores\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FinTech.Api\\Controladores\\TransactionsController.cs",
+              "ToolTip": "D:\\Projects\\Prueba\\backend\\FinTech\\Presentacion\\FinTech.Api\\Controladores\\TransactionsController.cs",
+              "RelativeToolTip": "Presentacion\\FinTech.Api\\Controladores\\TransactionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T02:28:14.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoanDetailResponse.cs",
+              "DocumentMoniker": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.DTO\\Loans\\LoanDetailResponse.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\FinTech.Application.DTO\\Loans\\LoanDetailResponse.cs",
+              "ToolTip": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.DTO\\Loans\\LoanDetailResponse.cs",
+              "RelativeToolTip": "Aplicacion\\FinTech.Application.DTO\\Loans\\LoanDetailResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T00:45:20.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\Prueba\\backend\\FinTech\\Presentacion\\FinTech.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Presentacion\\FinTech.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\Prueba\\backend\\FinTech\\Presentacion\\FinTech.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Presentacion\\FinTech.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-16T19:19:11.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Projects\\Prueba\\backend\\FinTech\\Infraestructura\\FinTech.Infrastructure\\Persistencia\\Migraciones\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Infraestructura\\FinTech.Infrastructure\\Persistencia\\Migraciones\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Projects\\Prueba\\backend\\FinTech\\Infraestructura\\FinTech.Infrastructure\\Persistencia\\Migraciones\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Infraestructura\\FinTech.Infrastructure\\Persistencia\\Migraciones\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAHIAAAAAMzMzMzMqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T18:39:09.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

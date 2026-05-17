@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WsrH1Zfkw2Y=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Prueba\\backend\\FinTech\\Aplicacion\\FinTech.Application.UseCases\\FinTech.Application.UseCases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aparedes\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.8\\microsoft.extensions.dependencyinjection.abstractions.10.0.8.nupkg.sha512",
+    "C:\\Users\\aparedes\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.8\\microsoft.extensions.logging.abstractions.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
