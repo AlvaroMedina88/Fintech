@@ -1,0 +1,18 @@
+# Backend
+**/bin/
+**/obj/
+**/logs/
+**/*.user
+**/appsettings.Development.json
+
+# Frontend
+node_modules/
+.next/
+.env.local
+.env*.local
+
+# General
+.DS_Store
+Thumbs.db
+*.suo
+.vs/
