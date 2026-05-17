@@ -1,5 +1,5 @@
 {
-  "provider": "dotnet",
+  "provider": "Dotnet",
   "build": {
     "cmd": "dotnet publish Presentacion/FinTech.Api/FinTech.Api.csproj -c Release -o out"
   },
