@@ -18,7 +18,7 @@ export default function Navbar() {
   const start = (
     <Link href="/" className="flex items-center gap-2 font-bold text-blue-700 text-lg mr-6">
       
-      <i className="pi pi-building-columns text-xl" />
+      <i className="pi pi-building-columns text-xl icono" />
       SGIP
     </Link>
   );
