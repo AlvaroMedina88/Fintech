@@ -1,0 +1,8 @@
+[phases.setup]
+aptPkgs = ["dotnet-sdk-8.0", "libicu-dev"]
+
+[phases.build]
+cmds = ["dotnet publish Presentacion/FinTech.Api/FinTech.Api.csproj -c Release -o out"]
+
+[start]
+cmd = "./out/FinTech.Api"
