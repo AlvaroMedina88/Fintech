@@ -55,3 +55,20 @@ body {
   color: #ffffff !important;
 }
 
+@media screen and (max-width: 960px) {
+  .navbar.p-menubar .p-menubar-root-list {
+    background-color: #ffffff !important;
+  }
+
+  .navbar.p-menubar .p-menubar-root-list > .p-menuitem > .p-menuitem-content,
+  .navbar.p-menubar .p-menubar-root-list > .p-menuitem > .p-menuitem-content .p-menuitem-link {
+    background-color:  #ffffff !important;
+    color: #713BB4 !important;
+  }
+
+  .navbar.p-menubar .p-menubar-root-list > .p-menuitem > .p-menuitem-content .p-menuitem-text,
+  .navbar.p-menubar .p-menubar-root-list > .p-menuitem > .p-menuitem-content .p-menuitem-icon {
+    color: #713BB4 !important;
+  }
+}
+
