@@ -7,5 +7,5 @@ RUN dotnet publish Presentacion/FinTech.Api/FinTech.Api.csproj --no-restore -c R
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app
 COPY --from=build /app/out .
-EXPOSE 8080
-ENTRYPOINT ["./FinTech.Api"]
+EXPOSE 10000
+CMD ["sh", "-c", "ASPNETCORE_URLS=http://+:${PORT:-10000} ./FinTech.Api"]
