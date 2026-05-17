@@ -22,7 +22,7 @@ export default function LoanList() {
   return (
     <DataTable
       value={loans ?? []}
-      emptyMessage="No se tiene prestamos aún."
+      emptyMessage="No se tiene prestamos aún"
 
       stripedRows
       rowClassName={() => "cursor-pointer"}

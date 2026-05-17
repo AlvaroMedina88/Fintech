@@ -56,7 +56,7 @@ export default function TransactionListPage() {
     <div className="flex flex-col gap-6">
       <div className="flex items-center justify-between">
         <h1 className="text-2xl font-bold text-slate-800">Transacciones</h1>
-        <Button label="Simular pago" icon="pi pi-plus" severity="success"
+        <Button label="Simular pago" icon="pi pi-plus" severity="success" class="button-color"
           loading={createTx.isPending} onClick={simulatePayment} />
       </div>
 

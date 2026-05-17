@@ -10,7 +10,7 @@ export default function LoanListPage() {
     <div>
       <div className="flex items-center justify-between mb-6">
             <h1 className="text-2xl font-bold text-slate-800">Mis Préstamos</h1>
-            <Button label="Simular nuevo" icon="pi pi-plus" onClick={() => router.push("/loans/simulate")} />
+            <Button label="Simular nuevo" class="button-color" icon="pi pi-plus" onClick={() => router.push("/loans/simulate")} />
       </div>
       <LoanList />
     </div>

@@ -23,5 +23,5 @@ export default function Navbar() {
     </Link>
   );
 
-  return <Menubar model={items} start={start} className="border-0 border-b rounded-none shadow-sm px-4" />;
+  return <Menubar model={items} start={start} className="border-0 border-b rounded-none shadow-sm px-4 navbar" />;
 }
