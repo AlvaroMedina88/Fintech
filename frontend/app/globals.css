@@ -12,3 +12,31 @@ body {
   color: var(--foreground);
   font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
 }
+
+.navbar.p-menubar {
+  background-color: #2F007A !important;
+  color: #ffffff !important;
+  border-color: #2F007A !important;
+}
+
+.navbar .p-menubar-item-link,
+.navbar .p-menuitem-text,
+.navbar .p-menuitem-icon {
+  color: #ffffff !important;
+}
+
+.navbar .p-menubar-item:hover .p-menubar-item-link {
+  background-color: #4A00B8 !important;
+  color: #ffffff !important;
+}
+
+.icono {
+  color: #ffffff !important;
+}
+
+.p-button.button-color,
+.p-button.button-color:enabled:hover {
+  background-color: #4A00B8 !important;
+  border-color: #4A00B8 !important;
+  color: #ffffff !important;
+}

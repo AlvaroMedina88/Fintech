@@ -100,7 +100,7 @@ resolver: zodResolver(schema),
 
           <div className="flex items-end">
             <Button label="Calcular" icon="pi pi-calculator" type="submit"
-              loading={simulate.isPending} className="w-full" />
+              loading={simulate.isPending} className="w-full button-color" />
           </div>
         </form>
 
