@@ -24,9 +24,11 @@ try
                   outputTemplate: "[{Timestamp:yyyy-MM-dd HH:mm:ss} {Level:u3}] {Message:lj}{NewLine}{Exception}",
                   retainedFileCountLimit: 7));
 
-    var connectionString = builder.Configuration.GetConnectionString("DefaultConnection")
-        ?? Environment.GetEnvironmentVariable("DATABASE_URL")
-        ?? throw new InvalidOperationException("Connection string no configurada.");
+    var connectionString = Environment.GetEnvironmentVariable("DATABASE_URL")
+        ?? builder.Configuration.GetConnectionString("DefaultConnection");
+
+    if (string.IsNullOrWhiteSpace(connectionString))
+        throw new InvalidOperationException("Connection string no configurada.");
 
     builder.Services.AddDbContext<ApplicationDbContext>(options =>
         options.UseNpgsql(connectionString));
