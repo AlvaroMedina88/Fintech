@@ -1,8 +1,12 @@
 [phases.setup]
+nixPkgs = []
 aptPkgs = ["dotnet-sdk-8.0", "libicu-dev"]
 
+[phases.install]
+cmds = ["dotnet restore FinTech.sln"]
+
 [phases.build]
-cmds = ["dotnet publish Presentacion/FinTech.Api/FinTech.Api.csproj -c Release -o out"]
+cmds = ["dotnet publish Presentacion/FinTech.Api/FinTech.Api.csproj --no-restore -c Release -o out"]
 
 [start]
 cmd = "./out/FinTech.Api"
