@@ -101,3 +101,10 @@
 [2026-05-17 12:25:02 INF] HTTP GET /api/loans responded 200 in 319.6859 ms
 [2026-05-17 12:25:04 INF] HTTP GET /api/loans responded 200 in 47.8123 ms
 [2026-05-17 12:25:06 INF] HTTP GET /api/loans/7d856ff3-93a1-4268-87ff-b867af69dd0a responded 200 in 138.1455 ms
+[2026-05-17 13:22:23 INF] HTTP GET /api/loans/7d856ff3-93a1-4268-87ff-b867af69dd0a responded 200 in 100.3534 ms
+[2026-05-17 13:22:28 INF] HTTP GET /api/loans responded 200 in 5.6850 ms
+[2026-05-17 13:22:29 INF] HTTP GET /api/transactions responded 200 in 40.1058 ms
+[2026-05-17 13:25:37 INF] HTTP GET /api/loans responded 200 in 18.8896 ms
+[2026-05-17 13:45:00 INF] HTTP GET /api/loans responded 200 in 74.8194 ms
+[2026-05-17 13:46:58 INF] HTTP GET /api/loans responded 200 in 12.5099 ms
+[2026-05-17 13:49:46 INF] HTTP GET /api/loans responded 200 in 11.9283 ms
