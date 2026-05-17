@@ -62,3 +62,23 @@
 [2026-05-17 09:34:57 INF] HTTP GET /api/transactions responded 200 in 2.0134 ms
 [2026-05-17 09:34:58 INF] HTTP GET /api/transactions responded 200 in 71.8207 ms
 [2026-05-17 09:35:00 INF] HTTP GET /api/loans responded 200 in 3.8986 ms
+[2026-05-17 11:18:36 INF] Migraciones generadas correctamente.
+[2026-05-17 11:18:36 INF] SGIP API iniciada correctamente.
+[2026-05-17 11:18:36 WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+[2026-05-17 11:18:36 INF] Now listening on: https://localhost:7133
+[2026-05-17 11:18:36 INF] Now listening on: http://localhost:5270
+[2026-05-17 11:18:36 INF] Application started. Press Ctrl+C to shut down.
+[2026-05-17 11:18:36 INF] Hosting environment: Development
+[2026-05-17 11:18:36 INF] Content root path: D:\Projects\Prueba\backend 8\FinTech\Presentacion\FinTech.Api
+[2026-05-17 11:18:42 INF] HTTP GET / responded 404 in 72.4246 ms
+[2026-05-17 11:18:45 INF] HTTP GET /swagger/index.html responded 304 in 52.6546 ms
+[2026-05-17 11:18:45 INF] HTTP GET /swagger/index.js responded 304 in 23.2591 ms
+[2026-05-17 11:18:45 INF] HTTP GET /swagger/index.css responded 304 in 56.0472 ms
+[2026-05-17 11:18:45 INF] HTTP GET /swagger/swagger-ui.css responded 304 in 56.0472 ms
+[2026-05-17 11:18:45 INF] HTTP GET /swagger/swagger-ui-bundle.js responded 304 in 56.0476 ms
+[2026-05-17 11:18:45 INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 304 in 52.2193 ms
+[2026-05-17 11:18:45 INF] HTTP GET /swagger/v1/swagger.json responded 200 in 14.1930 ms
+[2026-05-17 11:18:59 INF] HTTP GET /api/loans responded 200 in 294.0543 ms
+[2026-05-17 11:19:01 INF] HTTP GET /api/transactions responded 200 in 77.8809 ms
+[2026-05-17 11:19:13 INF] HTTP OPTIONS /api/loans/simulate responded 204 in 1.4326 ms
+[2026-05-17 11:19:13 INF] HTTP POST /api/loans/simulate responded 200 in 28.3116 ms
