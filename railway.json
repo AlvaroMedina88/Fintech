@@ -1,9 +1,5 @@
 {
   "$schema": "https://railway.com/railway.schema.json",
-  "build": {
-    "builder": "RAILPACK",
-    "buildCommand": "dotnet publish Presentacion/FinTech.Api/FinTech.Api.csproj -c Release -o out"
-  },
   "deploy": {
     "startCommand": "./out/FinTech.Api",
     "healthcheckPath": "/swagger"
